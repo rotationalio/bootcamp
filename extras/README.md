@@ -1,0 +1,1 @@
+The `extras` folder will house code snippets and supplemental materials.
